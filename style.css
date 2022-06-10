@@ -1,4 +1,18 @@
-html, body {
-  height: 100%;
-  width: 100%;
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.noticia {
+  text-align: center;
+  border: 1px solid rgb(61, 157, 37);
+  margin: 10px;
+  padding: 10px;
+  color: #FFF;
+  font-size: 24px;
+  background-color: rgb(79, 37, 157);;
 }
